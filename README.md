@@ -21,7 +21,7 @@ The easiest way to see the proxy in action is to upload the content of the Sampl
 Assuming you have the list set up properly, you should see the following grid that lets you view, page, sort, add and edit list items. 
 You will also notice in the dev tools at the bottom that it executes the correct REST operations as data is being fetched, added or edited.
 
-![SharePoint sample page](https://raw.github.com/tstojecki/SharePoint-proxy-for-Sencha-Touch/master/readme/img/sp-extjs-plants.png "SharePoint" "SharePoint sample page")
+![SharePoint sample page](https://raw.github.com/tstojecki/SharePoint-proxy-for-Sencha-ExtJS/master/readme/img/sp-extjs-plants.png "SharePoint" "SharePoint sample page")
  
 The folder contains all the dependencies such as the ExtJS 4.1.1 GPL library, css and images.
 If you organize the files in a different way, make sure you update the sample.aspx file accordingly.
